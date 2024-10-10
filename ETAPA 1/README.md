@@ -1,0 +1,1 @@
+En esta carpeta se encuentran todos los entregables asociados a la Etapa 1 del proyecto. En esta etapa no se tiene presupuestada interacción directa con el usuario, por lo cual no se presentan aplicaciones para su ejecución. 
