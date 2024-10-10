@@ -19,3 +19,7 @@ En esta estapa se llevó a cabo el despliegue del modelo de clasificación y, po
 6. Posteriormente, ejecutar el comando `npm start`. Si todo salio bien debería obtener una vista similar a la siguiente en la consolo y se debería abrir la aplicación en su navegador predeterminado.
 
    ![image](https://github.com/user-attachments/assets/f81e3b9d-1c19-42dc-8bfd-1683f7390ab5)
+
+### **Aviso importante**
+
+En caso de que haya reentrenado el modelo por medio de la aplicación Web y desee volver a la versión inicial del mismo, dirigase al directorio `ETAPA 2/backend` y ejecute el archivo llamado `Pipeline.py`. Esta acción restaurara el modelo a su versión inicial.
