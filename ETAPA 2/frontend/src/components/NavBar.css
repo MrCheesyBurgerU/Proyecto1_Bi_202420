@@ -1,0 +1,19 @@
+.nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.nav > * {
+	margin: 0 5px;
+}
+
+.separator {
+	padding: 0 5px;
+}
+
+.nav .active {
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: underline;
+}
