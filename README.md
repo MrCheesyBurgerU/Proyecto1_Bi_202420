@@ -1,1 +1,3 @@
 # Proyecto1_Bi_202420
+
+En este repositorio se encuentran todos los archivos asociados al desarrollo del Proyecto #1 del curso Inteligencia de Negocios. Debido a que el proyecto se desarrollo por etapas, se tomó la desición de dividir los archivos dentro del repositorio haciendo uso de la misma estrategia. Dentro de la carpeta asociada a cada etapa se encuentra un archivo README con toda la información detallada sobre la misma, a la vez que en la [wiki](https://github.com/MrCheesyBurgerU/Proyecto1_Bi_202420/wiki/Proyecto-1-%E2%80%90-Clasificaci%C3%B3n-de-ODS) del proyecto se presentan enlaces para acceder de manera rápida y sencilla a los entregables asociados a cada etapa.
